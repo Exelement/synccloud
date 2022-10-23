@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>897EE323-3994-4FE9-9AAD-FEA26FA3B493</title>
+    <defs>
+        <path d="M6.99970812,0 C3.14025602,0 0,3.0829649 0,6.87238688 C0,7.86081546 0.206068356,8.80454124 0.612172849,9.6775831 C2.36229447,13.4373942 5.71776447,17.4069647 6.70471319,18.5338955 C6.77865651,18.6181431 6.88645809,18.6666667 6.99990271,18.6666667 C7.11334733,18.6666667 7.2211489,18.6181431 7.29509222,18.5338955 C8.28165177,17.4071557 11.6371218,13.4377763 13.3878272,9.6775831 C13.7941262,8.80454124 14,7.86081546 14,6.87238688 C13.9996108,3.0829649 10.8593548,0 6.99970812,0 Z M6.99970812,10.4419246 C4.99487122,10.4419246 3.36364268,8.84045631 3.36364268,6.87219584 C3.36364268,4.90374434 4.99487122,3.30227608 6.99970812,3.30227608 C9.00454501,3.30227608 10.6357736,4.90374434 10.6357736,6.87219584 C10.6359681,8.84045631 9.0047396,10.4419246 6.99970812,10.4419246 Z" id="path-1"></path>
+    </defs>
+    <g id="Design-2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-page-desktop" transform="translate(-235.000000, -6618.000000)">
+            <g id="Get-in-touch" transform="translate(0.000000, 6308.000000)">
+                <g id="Stockholm,-Gamla-Brogatan-32" transform="translate(235.000000, 308.000000)">
+                    <g id="icon-location" transform="translate(0.000000, 2.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+                        <g id="placeholder-filled-point" transform="translate(3.000000, 0.000000)">
+                            <g id="Rectangle" transform="translate(0.000000, 0.175799)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <rect fill="#4638AB" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="0" width="7" height="18.6666667"></rect>
+                            </g>
+                        </g>
+                        <rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="0" y="19" width="1" height="1"></rect>
+                        <rect id="Rectangle" fill-opacity="0.01" fill="#FFFFFF" x="19" y="0" width="1" height="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
