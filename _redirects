@@ -4,3 +4,10 @@ http://synccloud.exelement.co/ https://www.exelement.co/technology/exelement-syn
 https://synccloud.exelement.co/ https://www.exelement.co/technology/exelement-synccloud-managed-ipaas/ 301!
 http://synccloud.netlify.app/* https://synccloud.exelement.co/:splat 301!
 https://synccloud.netlify.app/* https://synccloud.exelement.co/:splat 301!
+https://synccloud.exelement.co/marketo/integrate-marketo-with-any-other-application https://synccloud.exelement.co/marketo/
+https://synccloud.exelement.co/pardot/integrate-salesforce-pardot-with-any-other-application https://synccloud.exelement.co/pardot/
+https://synccloud.exelement.co/salesforce/integrate-salesforce-with-any-other-application https://synccloud.exelement.co/salesforce/
+https://synccloud.exelement.co/hubspot/integrate-hubspot-with-any-other-application https://synccloud.exelement.co/hubspot/
+https://synccloud.exelement.co/visma/integrate-visma-with-any-other-application https://synccloud.exelement.co/visma/
+https://synccloud.exelement.co/sugarcrm/integrate-sugarcrm-with-any-other-application https://synccloud.exelement.co/sugarcrm/
+https://synccloud.exelement.co/freshworks/integrate-freshworks-crm-with-any-other-application https://synccloud.exelement.co/freshworks/
